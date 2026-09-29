@@ -433,7 +433,10 @@ Contribute
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohitchauhan1324325/mohitchauhan1324325/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/mohitchauhan1324325/mohitchauhan1324325/gh-pages/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
