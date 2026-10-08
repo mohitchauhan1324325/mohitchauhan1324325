@@ -346,17 +346,6 @@ Learning through real projects
 
 <table align="center">
 <tr>
-
-<td align="center" width="20%">
-
-### 🎓
-
-**MCA**
-
-Completed
-
-</td>
-
 <td align="center" width="20%">
 
 ### 💻
