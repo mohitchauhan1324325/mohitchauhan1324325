@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:111827,55:312e81,80:7c3aed,100:06b6d4&height=230&section=header&text=MOHIT%20CHAUHAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20MCP%20%E2%80%A2%20OPEN%20SOURCE&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:111827,55:312e81,80:7c3aed,100:06b6d4&height=230&section=header&text=MOHIT%20CHAUHAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20%E2%80%A2%20MCP%20%E2%80%A2%20OPEN%20SOURCE&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+full-stack+products+%F0%9F%9A%80;Exploring+AI+%2B+MCP+%F0%9F%A4%96;Solving+DSA+problems+every+day+%F0%9F%A7%A9;Contributing+to+Open+Source+%F0%9F%8C%8D;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" />
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=mohitchauhan1324325&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
 </div>
 
