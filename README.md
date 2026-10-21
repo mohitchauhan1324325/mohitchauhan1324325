@@ -22,7 +22,7 @@
 
 ### Hey, I'm Mohit 👋
 
-I'm a **Full Stack Developer** who enjoys turning ideas into working products.
+I'm a **Software Engineer** who enjoys turning ideas into working products.
 
 Currently focused on:
 
